@@ -81,3 +81,6 @@ Usuários finais: Alunos e Colaboradores da universidade.
 
 ## Método 1: Matriz MoSCoW  
 ![MoSCoW](moscow.png)
+
+## Método 2: Análise de Valor vs. Esforço (Priorização por Retorno)  
+
