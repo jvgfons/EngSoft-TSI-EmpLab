@@ -80,4 +80,4 @@ Usuários finais: Alunos e Colaboradores da universidade.
 # Atividade 5: Priorização de Backlog e Valor de Negócio  
 
 ## Método 1: Matriz MoSCoW  
-![MoSCoW](MUST HAVE.png)
+![MoSCoW](moscow.png)
