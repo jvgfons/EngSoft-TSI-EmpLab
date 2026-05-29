@@ -37,5 +37,40 @@ Usuários finais: Alunos e Colaboradores da universidade.
 
 13.Como um administrador do sistema, quero cadastrar colaboradores como administradores de um ou mais laboratórios para delegar a gestão dos recursos institucionais.
 
+14.Como um aluno, quero acompanhar o status das minhas solicitações de reserva para saber se elas foram aprovadas, rejeitadas ou estão pendentes.
+
+15.Como um aluno, quero acompanhar o status das solicitações de empréstimo de equipamentos para saber quando poderei retirá-los.
+
+16.Como um colaborador, quero acompanhar o status das minhas solicitações de reserva para saber quando poderei utilizar o laboratório solicitado.
+
+17.Como um administrador de laboratório, quero consultar o calendário consolidado das reservas aprovadas para evitar conflitos de agendamento.
+
+18.Como um administrador de laboratório, quero receber notificações sobre novas solicitações pendentes de aprovação para responder às demandas em tempo hábil.
+
+19.Como um aluno, quero receber notificações sobre minhas solicitações para ser informado sobre aprovações, rejeições e devoluções previstas.
+
+20.Como um colaborador, quero receber notificações sobre alterações nas minhas solicitações para acompanhar rapidamente as decisões dos administradores.
+
+21.Como um administrador de laboratório, quero cadastrar e atualizar informações dos equipamentos disponíveis para empréstimo para manter o inventário atualizado.
+
+22.Como um administrador de laboratório, quero gerenciar os horários disponíveis dos laboratórios para organizar períodos de funcionamento, manutenção e bloqueios.
+
+23.Como um aluno, quero cancelar uma solicitação de reserva para liberar o horário quando não precisar mais utilizá-lo.
+
+24.Como um colaborador, quero cancelar reservas ou solicitações pendentes para evitar conflitos de agenda e liberar recursos.
+
+25.Como um aluno, quero visualizar o histórico das minhas reservas para acompanhar meus agendamentos anteriores.
+
+26.Como um colaborador, quero visualizar o histórico de reservas realizadas para acompanhar a utilização dos laboratórios sob minha responsabilidade.
+
+27.Como um administrador de laboratório, quero visualizar relatórios de utilização dos laboratórios e equipamentos para apoiar decisões de gestão e planejamento.
+
+28.Como um administrador do sistema, quero gerenciar usuários, perfis e permissões para garantir a segurança e o controle de acesso ao sistema.
+
+29.Como um administrador do sistema, quero gerar relatórios gerais de utilização dos laboratórios e equipamentos para auxiliar na tomada de decisões e no planejamento de investimentos.
 
 # Atividade 5: Priorização de Backlog e Valor de Negócio
+
+1 a 13 Must have
+14 a 22 Should Have
+15 a 29 Could Have
