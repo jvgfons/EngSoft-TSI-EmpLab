@@ -69,8 +69,12 @@ Usuários finais: Alunos e Colaboradores da universidade.
 
 29.Como um administrador do sistema, quero gerar relatórios gerais de utilização dos laboratórios e equipamentos para auxiliar na tomada de decisões e no planejamento de investimentos.
 
-# Atividade 5: Priorização de Backlog e Valor de Negócio
+30. Como um aluno, quero receber lembretes automáticos por WhatsApp sobre minhas reservas e empréstimos para evitar esquecimentos e atrasos.
+    
+31. Como um usuário, quero sincronizar minhas reservas com calendários externos, como Google Calendar e Outlook, para centralizar meus compromissos acadêmicos.
+    
+32. Como um administrador de laboratório, quero utilizar QR Code para registrar a retirada e devolução de equipamentos para agilizar o controle dos empréstimos.
+    
+33. Como um administrador do sistema, quero integrar o sistema ao portal acadêmico da universidade para importar automaticamente dados de alunos, colaboradores e disciplinas.
 
-1 a 13 Must have
-14 a 22 Should Have
-15 a 29 Could Have
+# Atividade 5: Priorização de Backlog e Valor de Negócio
