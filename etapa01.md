@@ -84,3 +84,27 @@ Usuários finais: Alunos e Colaboradores da universidade.
 
 ## Método 2: Análise de Valor vs. Esforço (Priorização por Retorno)  
 
+## Alto Valor / Baixo Esforço (Fazer primeiro)
+    Visualizar calendário
+    Aprovar reservas
+    Rejeitar reservas
+    Aprovar empréstimos
+    Rejeitar empréstimos
+    Visualizar solicitações pendentes
+    Consultar equipamentos disponíveis
+    Acompanhar status das solicitações
+## Alto Valor / Alto Esforço (Planejar cuidadosamente)
+    Solicitar reserva de laboratório
+    Solicitar empréstimo de equipamentos
+    Cadastro de laboratórios
+    Associação de administradores
+    Gerenciamento de usuários e permissões
+## Baixo Valor / Baixo Esforço (Implementar se houver tempo)
+    Histórico de reservas
+    Cancelamento de solicitações
+## Baixo Valor / Alto Esforço (Evitar nesta versão)
+    Integração com Google Calendar
+    Integração com sistema acadêmico
+    Notificações por WhatsApp
+    QR Code para empréstimos
+
