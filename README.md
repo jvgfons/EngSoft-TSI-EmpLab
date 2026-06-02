@@ -2,4 +2,4 @@
 
 Clique nos links abaixo para acessar os arquivos:
 
-* 📄 [Etapa 01](./etapa01)
+* 📄 [Etapa 01](./etapa01.md)
