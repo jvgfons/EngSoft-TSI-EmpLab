@@ -1,2 +1,2 @@
 # Tela Inicial
-![Tela Inicial](Tela Inicial.png)
+![Tela Inicial](Sprint 1 - Prits do protótipo da plataforma/Tela Inicial.png)
