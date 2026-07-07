@@ -6,5 +6,5 @@ Esta etapa organiza o fechamento da Sprint 2 e o planejamento da Sprint 3 do sis
 
 - [Sprint Review 2](./sprint2_review.md)
 - [Sprint Planning 3](./sprint3_planning.md)
-- [Evidencias da Sprint 2](./evidencias/)
+
 
